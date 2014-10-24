@@ -22,4 +22,4 @@ board.on("ready", function() {
   console.log("movimiento de los dedos")
   dedos.sweep();
 
-});
+});ja y w
