@@ -23,5 +23,3 @@ board.on("ready", function() {
   dedos.sweep();
 
 });
-
-Autor:javier bohorquez
